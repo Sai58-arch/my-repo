@@ -7,3 +7,4 @@ sample() {
   b=20;
   echo sample function example ${b}
 }
+sample
